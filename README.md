@@ -127,4 +127,18 @@ NODE_ENV=development
 npm install
 ```
 
+### 4. ▶️ Run the Project
+
+## Start Backend:
+```bash
+cd backend
+npm run dev
+```
+
+## Start Frontend:
+```bash
+cd frontend
+npm run dev
+```
+
 ---
