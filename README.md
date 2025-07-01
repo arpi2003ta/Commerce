@@ -99,5 +99,6 @@ A feature-rich E-Commerce Website designed to deliver a seamless shopping experi
 ```bash
 git clone https://github.com/arpi2003ta/Commerce.git
 cd Commerce
+```
 
 ---
