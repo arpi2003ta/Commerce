@@ -121,8 +121,10 @@ CLIENT_URL=http://localhost:5173
 NODE_ENV=development
 ```
 
-###3. 📥 Install Dependencies
+### 3. 📥 Install Dependencies
 
 ```bash
+npm install
 ```
+
 ---
